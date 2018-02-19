@@ -39,10 +39,14 @@ h2 {
 }
 
 .filmList {
-  background-color: darkCyan;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/12/20/64563b15b6891fe.jpg");
+  color: white;
 }
 
 button {
-  background-color: gray;
-  font: darkCyan;
+  background-color: darkCyan;
+}
+
+p {
+  color: darkCyan;
 }
